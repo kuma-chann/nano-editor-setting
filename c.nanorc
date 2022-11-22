@@ -17,6 +17,9 @@ color brightcyan "[(){}]" "\[" "\]"
 
 ## string literal color
 color orange "<[^= 	]*>" ""(\\.|[^"])*""
+## when the error occurs, change to the following setting
+## (e.g. Color "orange" not understood)
+# color brightblue "<[^= 	]*>" ""(\\.|[^"])*""
 
 ## comment color
 color brightgreen "//.*"
@@ -28,3 +31,6 @@ color brightcyan "@param [a-zA-Z_][a-z0-9A-Z_]+"
 
 ## trailing whitespace color
 color ,brightred "[[:space:]]+$"
+## when the error occurs, change to the following setting
+## (e.g. A background color cannot be bright)
+# color ,red "[[:space:]]+$"
