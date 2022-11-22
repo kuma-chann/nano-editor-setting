@@ -4,11 +4,11 @@ Customize the nano editor.
 
 ## install
 ```sh
-wget 
+wget https://raw.githubusercontent.com/kuma-chann/nano-editor-setting/main/install.sh
 ```
 
 
 ## uninstall
 ```sh
-wget
+wget https://raw.githubusercontent.com/kuma-chann/nano-editor-setting/main/uninstall.sh
 ```
