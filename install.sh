@@ -1,9 +1,9 @@
 ## syntax highlight
 mkdir ~/.nano
 cd ~/.nano
-# wget https://.../nano-editor-setting/c.nanorc
-# wget https://.../nano-editor-setting/python.nanorc
+# wget https://raw.githubusercontent.com/kuma-chann/nano-editor-setting/main/c.nanorc
+# wget https://raw.githubusercontent.com/kuma-chann/nano-editor-setting/main/python.nanorc
 
 ## .nanorc
 cd ~/
-# wget https://.../nano-editor-setting/.nanorc
+# https://raw.githubusercontent.com/kuma-chann/nano-editor-setting/main/.nanorc
