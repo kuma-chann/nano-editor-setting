@@ -6,4 +6,4 @@ wget https://raw.githubusercontent.com/kuma-chann/nano-editor-setting/main/c.nan
 
 ## .nanorc
 cd ~/
-https://raw.githubusercontent.com/kuma-chann/nano-editor-setting/main/.nanorc
+wget https://raw.githubusercontent.com/kuma-chann/nano-editor-setting/main/.nanorc
