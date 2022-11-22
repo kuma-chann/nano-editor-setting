@@ -1,0 +1,19 @@
+## setting file for nano editor
+## for more information on this setting file, see following README.md:
+## https://...
+
+
+## tab size
+set tabsize 4
+
+## convert tab to spaecs
+set tabstospaces
+
+## display line numbers
+set linenumbers
+
+## automatically indent
+set autoindent
+
+## syntax highlighting
+include "~/.nano/*.nanorc"
