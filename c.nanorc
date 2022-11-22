@@ -23,12 +23,8 @@ color brightgreen "//.*"
 color brightgreen start="/\*" end="\*/"
 
 ## doxygen color
-color brightcyan "@brief"
-color brightcyan "@details"
-color brightcyan "@note"
-color brightcyan "@todo"
+color brightcyan "@brief" "@details" "@note" "@todo" "@return"
 color brightcyan "@param [a-zA-Z_][a-z0-9A-Z_]+"
-color brightcyan "@return"
 
 ## trailing whitespace color
 color ,brightred "[[:space:]]+$"
