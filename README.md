@@ -3,8 +3,14 @@ Customize the nano editor.
 
 
 ## install
+minimum configuration
 ```sh
-wget https://raw.githubusercontent.com/kuma-chann/nano-editor-setting/main/install.sh -O- | sh
+wget https://raw.githubusercontent.com/kuma-chann/nano-editor-setting/main/install_min.sh -O- | sh
+```
+
+with syntax highlighting
+```sh
+wget https://raw.githubusercontent.com/kuma-chann/nano-editor-setting/main/install_max.sh -O- | sh
 ```
 
 
