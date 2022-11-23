@@ -16,4 +16,4 @@ set linenumbers
 set autoindent
 
 ## syntax highlighting
-include "~/.nano/*.nanorc"
+# include "~/.nano/*.nanorc"
